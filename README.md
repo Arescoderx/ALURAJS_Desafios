@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>Logica de Programação com Desafios</h1>
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 <h3>�� Tecnologias</h3>
